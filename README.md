@@ -1,1 +1,1 @@
-# My-favorite-band
+# favoriteband
